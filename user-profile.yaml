@@ -1,0 +1,29 @@
+user:
+  name: "Иван Иванов"
+  age: 32
+  isAdmin: false
+  position: "Senior Backend Developer"
+  skills:
+    - name: "Go"
+      level: 5
+      description: |
+        Опыт разработки высоконагруженных сервисов,
+        работа с gRPC и Kubernetes API.
+    - name: "Docker"
+      level: 4
+      description: |
+        Умеет писать эффективные Dockerfile,
+        оптимизировать образы, работать с multi-stage сборкой,
+        запускать контейнеры в продакшене.
+  residence:
+    country: "Россия"
+    city: "Москва"
+    house_number: 25
+    apartment: 78
+  pets:
+    - name: "Мурка"
+      breed: "Британская короткошёрстная"
+      can_meow: true
+    - name: "Рекс"
+      breed: "Немецкая овчарка"
+      can_meow: false
