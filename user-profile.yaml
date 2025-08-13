@@ -18,6 +18,7 @@ user:
   residence:
     country: "Россия"
     city: "Москва"
+    street: "Ленина"
     house_number: 25
     apartment: 78
   pets:
